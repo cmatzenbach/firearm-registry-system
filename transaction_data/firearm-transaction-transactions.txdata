@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "firearmTransactionExists",
+        "transactionLabel": "A test firearmTransactionExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createFirearmTransaction",
+        "transactionLabel": "A test createFirearmTransaction transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readFirearmTransaction",
+        "transactionLabel": "A test readFirearmTransaction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateFirearmTransaction",
+        "transactionLabel": "A test updateFirearmTransaction transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteFirearmTransaction",
+        "transactionLabel": "A test deleteFirearmTransaction transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
